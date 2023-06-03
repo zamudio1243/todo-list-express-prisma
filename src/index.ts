@@ -13,6 +13,7 @@ app.get("/", (req: Request, res: Response) => {
 });
 
 app.get('/protected', authenticateToken, (req, res) => {
+
   return res.json({message: 'you have authorization'});
 });
 
