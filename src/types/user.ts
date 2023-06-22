@@ -1,5 +1,5 @@
-import {Request} from "express";
+import { Request } from "express";
 
 export default interface AuthRequest extends Request {
-    userId?: string;
+  userId?: string;
 }
