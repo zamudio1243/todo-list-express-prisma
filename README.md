@@ -13,7 +13,7 @@ Este es un proyecto de una aplicación de lista de tareas (to-do list) desarroll
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/zamudio1243/express-prisma`
 2. Navega hasta la carpeta del proyecto: `cd tu-repositorio`
 3. Instala las dependencias: `npm install`
 
